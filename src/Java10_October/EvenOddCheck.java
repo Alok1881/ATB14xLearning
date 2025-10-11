@@ -1,4 +1,4 @@
-package Java09_October;
+package Java10_October;
 import java.util.*;
 public class EvenOddCheck {
     public static void main(String[] args)
